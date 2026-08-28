@@ -13,7 +13,7 @@ Alice wrote a date on paper in the form MM-DD, where MM and DD are both two-digi
 In this problem, February is fixed to have 28 days.
 #### Input and Output:
 Input Format:A single line containing a string of five characters, representing MM-DD.
-Output Format:A single line containing one integer, representing the answer.
+Output Format:A single line containing one integer, representing the answer.  
 [from](https://www.luogu.com.cn/problem/P5690)
 
 ### 3.---
