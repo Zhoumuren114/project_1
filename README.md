@@ -14,6 +14,7 @@ In this problem, February is fixed to have 28 days.
 #### Input and Output:
 Input Format:A single line containing a string of five characters, representing MM-DD.
 Output Format:A single line containing one integer, representing the answer.
+[from]([InternetShortcut]URL=https://www.luogu.com.cn/problem/P5690)
 
 ### 3.---
 
