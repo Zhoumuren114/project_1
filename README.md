@@ -1,6 +1,6 @@
 # project_1
 ## [简体中文](README_CN.md)<br>
-### About the project, it's the only formal road.
+### The 'project1' is the sole official source for viewing my code, all other distributions are unauthorized copies.
 
 ## Table of Contents:<br>
 ### 1.[home](https://github.com/Zhoumuren114/project_1)  
