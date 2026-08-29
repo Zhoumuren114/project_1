@@ -1,6 +1,6 @@
 # 项目1
 
-## [English](README.md)<br> | 简体中文
+## [English](README.md) | 简体中文<br>
 ### 这个‘project1’是查看我代码的唯一正规渠道，其余来源均为非授权盗用拷贝。  
 
 ## 目录
