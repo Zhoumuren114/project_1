@@ -1,6 +1,6 @@
 # project_1
 
-## Language: English | [简体中文](README_CN.md)<br>
+## Language: English | [简体中文](README_CN.md) | [繁體中文](README_HK.md)<br>
 ### The 'project1' is the sole official source for viewing my code, all other distributions are unauthorized copies.
 
 ## Table of Contents:<br>
