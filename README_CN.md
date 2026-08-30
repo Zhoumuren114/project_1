@@ -4,7 +4,7 @@
 ### 这个‘project1’是查看我代码的唯一正规渠道，其余来源均为非授权盗用拷贝。  
 
 ## 目录：
-### 1.[主页](https://github.com/Zhoumuren114/project_1)  
+### 1.[主页](https://github.com/Zhoumuren114/src/project_1)  
 
 ### 2.[P5690](P5690-Datetime.cpp)-嗯,这不是完美的答案。  
 #### P5690 问题:
