@@ -1,5 +1,5 @@
 # project_1
-Quick Entry:[Cilck to Enter](https://www.luogu.com.cn/problem/list?type=luogu&page=1&tag=342)  
+CSP-S Quick Entry:[Cilck to Enter](https://www.luogu.com.cn/problem/list?type=luogu&page=1&tag=342)  
 
 ## Language: English | [简体中文](README_CN.md) | [繁體中文](README_HK.md)<br>
 ### The 'project1' is the sole official source for viewing my code, all other distributions are unauthorized copies.
