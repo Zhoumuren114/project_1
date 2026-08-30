@@ -4,9 +4,9 @@
 ### The 'project1' is the sole official source for viewing my code, all other distributions are unauthorized copies.
 
 ## Table of Contents:<br>
-### 1.[home](https://github.com/Zhoumuren114/src/project_1)  
+### 1.[home](https://github.com/Zhoumuren114/project_1)  
 
-### 2.[P5690](P5690-Datetime.cpp)-Emm,it's not the beautiful answer.
+### 2.[P5690](src/P5690-Datetime.cpp)-Emm,it's not the beautiful answer.
 #### P5690 Problem:
 **Problem Background**:CSP-SJX2019 T1
 #### Problem Statement:
